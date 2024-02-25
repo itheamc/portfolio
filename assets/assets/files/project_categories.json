@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "message": "Projects category data retrieved successfully.",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Personal Projects",
+      "descriptions": "A curated collection of my personal projects showcasing my skills, interests, and creative endeavors. Explore a diverse range of projects that demonstrate my technical expertise, problem-solving abilities, and passion for innovation."
+    },
+    {
+      "id": 2,
+      "name": "Professional Projects",
+      "descriptions": "This section showcases impactful projects I delivered while at Casper Technology India Ltd and Naxa Pvt. Ltd., demonstrating my skills and contributions"
+    },
+    {
+      "id": 3,
+      "name": "Freelancing Projects",
+      "descriptions": "This section showcases some of my freelancing projects"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "success": true,
+  "message": "Projects data retrieved successfully.",
+  "projects": [
+    {
+      "id": 1,
+      "category": 1,
+      "name": "Mapbox Map Gl Plugin",
+      "descriptions": "This plugin seamlessly integrates the powerful Mapbox Maps SDK into your Flutter application, unlocking a world of possibilities for location-based experiences.",
+      "logo": "images/mapbox_map_gl/logo.png",
+      "tech_stacks": [
+        "Flutter",
+        "Mapbox SDK"
+      ],
+      "features": [
+        {
+          "id": 1,
+          "title": "Embed Interactive Maps",
+          "descriptions": "Effortlessly add interactive maps powered by Mapbox directly into your Flutter app."
+        },
+        {
+          "id": 2,
+          "title": "Stunning and Customizable Maps",
+          "descriptions": "Display beautiful, customizable maps that enhance user engagement and provide intuitive navigation."
+        },
+        {
+          "id": 3,
+          "title": "Multiple Map Styles",
+          "descriptions": "Choose from a variety of pre-designed map styles or create your own to match your app's aesthetic."
+        },
+        {
+          "id": 4,
+          "title": "Markers and Annotations",
+          "descriptions": "Add informative markers and labels to pinpoint locations and highlight key points of interest."
+        },
+        {
+          "id": 5,
+          "title": "User Interaction",
+          "descriptions": "Enable features like panning, zooming, and rotation for a smooth and intuitive user experience."
+        },
+        {
+          "id": 6,
+          "title": "Location Awareness",
+          "descriptions": "Leverage device location services to display the user's current position and enable features like route planning."
+        },
+        {
+          "id": 7,
+          "title": "Offline Maps",
+          "descriptions": "Download maps for specific regions for continued functionality even without an internet connection."
+        }
+      ],
+      "multimedia": [
+        "images/mapbox_map_gl/screenshot1.png",
+        "images/mapbox_map_gl/screenshot2.png",
+        "images/mapbox_map_gl/screenshot3.png",
+        "images/mapbox_map_gl/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Pub",
+          "link": "https://pub.dev/packages/mapbox_map_gl",
+          "icon": "icons/pub.png"
+        },
+        {
+          "id": 2,
+          "label": "Github",
+          "link": "https://github.com/itheamc/mapbox_map_gl",
+          "icon": "icons/github.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "Navigation for Compose for Desktop",
+      "descriptions": "Codebase empowering smooth navigation within Compose for Desktop applications",
+      "logo": "compose_for_desktop/logo.png",
+      "tech_stacks": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Compose for Desktop"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "mapbox_map_gl/screenshot1.png",
+        "mapbox_map_gl/screenshot2.png",
+        "mapbox_map_gl/screenshot3.png",
+        "mapbox_map_gl/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Github",
+          "link": "https://github.com/itheamc/navigation-for-compose-for-desktop",
+          "icon": "icons/github.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 3,
+      "category": 2,
+      "name": "PDRA",
+      "descriptions": "Participatory Disaster Risk Assessment (PDRA) is a digital tool to assess the household level vulnerability based on primary data collected at the household level.\n\nIt works by assessing the household and community level existing hazards, disaster risks, vulnerability, resources, capacities and identifies the plans to mitigate, prevent and manage the disasters impacts at household and communities level.",
+      "logo": "images/pdra/logo.png",
+      "tech_stacks": [
+        "Android",
+        "Kotlin/Java",
+        "Collect ODK",
+        "Room",
+        "RxJava",
+        "Dagger"
+      ],
+      "features": [
+        {
+          "id": 1,
+          "title": "Manage household level vulnerability assessment surveys",
+          "descriptions": ""
+        },
+        {
+          "id": 2,
+          "title": "Vulnerability ranking of households based on custom criteria",
+          "descriptions": ""
+        },
+        {
+          "id": 3,
+          "title": "Multi-layer mapping of households, resources, hazards and institutions",
+          "descriptions": ""
+        },
+        {
+          "id": 4,
+          "title": "Interactive data visualization",
+          "descriptions": ""
+        },
+        {
+          "id": 5,
+          "title": "Generate household level disaster preparedness and response plan",
+          "descriptions": ""
+        }
+      ],
+      "multimedia": [
+        "images/mapbox_map_gl/screenshot1.png",
+        "images/mapbox_map_gl/screenshot2.png",
+        "images/mapbox_map_gl/screenshot3.png",
+        "images/mapbox_map_gl/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Website",
+          "link": "https://pdra.naxa.com.np/#/home",
+          "icon": "icons/website.png"
+        },
+        {
+          "id": 2,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details/PDRA?id=np.com.naxa.pdra",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 4,
+      "category": 2,
+      "name": "Naxa Assessment",
+      "descriptions": "Naxa Assessment Project pilots a groundbreaking mobile app (Android & Web) for\noffline multi-hazard risk assessment, empowering communities vulnerable to floods,\nearthquakes, and landslides with crucial information for preparedness and response.",
+      "logo": "images/naxa_assessment/logo.png",
+      "tech_stacks": [
+        "Android",
+        "Kotlin/Java",
+        "Collect ODK",
+        "Room",
+        "RxJava",
+        "Dagger"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "images/mapbox_map_gl/screenshot1.png",
+        "images/mapbox_map_gl/screenshot2.png",
+        "images/mapbox_map_gl/screenshot3.png",
+        "images/mapbox_map_gl/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Website",
+          "link": "https://assessment.naxa.com.np/",
+          "icon": "icons/website.png"
+        },
+        {
+          "id": 2,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details?id=np.com.naxa.assessment",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "name": "Zite Manager",
+      "descriptions": "Zite Manager lets you automate your referrals, manage approvals, design your own\nworkflows, and coordinate tasks between team members. It can create tracking\nnumbers, assign statuses, email you urgent information, export data to excel, and\nhelp you visualize your program workfiows.",
+      "logo": "images/zite/logo.png",
+      "tech_stacks": [
+        "Flutter",
+        "Riverpod",
+        "Android",
+        "Kotlin/Java",
+        "Collect ODK"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "images/zite/screenshot1.png",
+        "images/zite/screenshot2.png",
+        "images/zite/screenshot3.png",
+        "images/zite/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Website",
+          "link": "https://app.zitemanager.org/",
+          "icon": "icons/website.png"
+        },
+        {
+          "id": 2,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details?id=np.com.naxa.zitemanagerapp",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "name": "Safa Nepal",
+      "descriptions": "Safa Nepal, previously known as Nepal Waste Map, is an open-data waste management and data collection system implemented by Clean up Nepal.",
+      "logo": "images/safa_nepal/logo.png",
+      "tech_stacks": [
+        "Flutter",
+        "Mapbox Map SDK",
+        "GetX"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "images/safa_nepal/screenshot1.png",
+        "images/safa_nepal/screenshot2.png",
+        "images/safa_nepal/screenshot3.png",
+        "images/safa_nepal/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Website",
+          "link": "https://safanepal.org/",
+          "icon": "icons/website.png"
+        },
+        {
+          "id": 2,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details?id=org.cleanup.nepalwastemap",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 7,
+      "category": 2,
+      "name": "Shopazard",
+      "descriptions": "Shopazard is a mobile based ecommerce app that aims to display the products from the nearest store to the consumer.",
+      "logo": "images/shopazard/logo.png",
+      "tech_stacks": [
+        "Flutter",
+        "Google Map SDK",
+        "Provider",
+        "Geolocator"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "images/shopazard/screenshot1.png",
+        "images/shopazard/screenshot2.png",
+        "images/shopazard/screenshot3.png",
+        "images/shopazard/screenshot4.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Website",
+          "link": "https://shopazard.com/",
+          "icon": "icons/website.png"
+        },
+        {
+          "id": 2,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details?id=com.shopazard.customer",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    },
+    {
+      "id": 8,
+      "category": 3,
+      "name": "Rkado",
+      "descriptions": "Connect with millions of others all over the world through: · Chatting · Miniblogging · Playing Games · Sending Virtual Gifts.",
+      "logo": "images/rkado/logo.png",
+      "tech_stacks": [
+        "Flutter",
+        "Pusher",
+        "Riverpod"
+      ],
+      "features": [
+      ],
+      "multimedia": [
+        "images/rkado/screenshot1.png",
+        "images/rkado/screenshot2.png",
+        "images/rkado/screenshot3.png",
+        "images/rkado/screenshot4.png",
+        "images/rkado/screenshot5.png",
+        "images/rkado/screenshot6.png",
+        "images/rkado/screenshot7.png"
+      ],
+      "links": [
+        {
+          "id": 1,
+          "label": "Play Store",
+          "link": "https://play.google.com/store/apps/details?id=com.rkado.android",
+          "icon": "icons/play-store.png"
+        }
+      ],
+      "date": "2024-02-25T10:15:00"
+    }
+  ]
+}

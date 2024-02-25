@@ -1,0 +1,129 @@
+{
+  "success": "true",
+  "message": "Skills data retrieved successfully.",
+  "skills": [
+    {
+      "id": 1,
+      "title": "Technical Skills",
+      "description": "Experience with various programming languages, frameworks, and tools across mobile, web, and blockchain development.",
+      "items": [
+        {
+          "id": 1,
+          "name": "Android",
+          "tech_stacks": [
+            "Java",
+            "Kotlin",
+            "Jetpack Compose",
+            "Retrofit",
+            "Room",
+            "Dagger"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Flutter",
+          "tech_stacks": [
+            "Dart",
+            "Provider",
+            "Riverpod",
+            "GetX",
+            "Firebase"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ReactJs",
+          "tech_stacks": [
+            "JavaScript",
+            "TypeScript",
+            "Redux",
+            "Axios",
+            "React Native"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Web",
+          "tech_stacks": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Django",
+          "tech_stacks": [
+            "Python"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Web3.0",
+          "tech_stacks": [
+            "Solidity",
+            "Truffle",
+            "web3.js",
+            "web3.storage"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Database",
+          "tech_stacks": [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "SQLite"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Version Control",
+          "tech_stacks": [
+            "Git",
+            "GitHub"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Soft Skills",
+      "description": "Strong foundation in communication, teamwork, problem-solving, and other essential skills for successful collaboration.",
+      "items": [
+        {
+          "id": 1,
+          "name": "Problem-solving"
+        },
+        {
+          "id": 2,
+          "name": "Critical thinking"
+        },
+        {
+          "id": 3,
+          "name": "Communication"
+        },
+        {
+          "id": 4,
+          "name": "Teamwork"
+        },
+        {
+          "id": 5,
+          "name": "Time management"
+        },
+        {
+          "id": 6,
+          "name": "Attention to detail"
+        },
+        {
+          "id": 7,
+          "name": "Creativity"
+        },
+        {
+          "id": 8,
+          "name": "User Interface (UI) and User Experience (UX) design"
+        }
+      ]
+    }
+  ]
+}
