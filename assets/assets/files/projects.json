@@ -7,7 +7,7 @@
       "category": 1,
       "name": "Mapbox Map Gl Plugin",
       "descriptions": "This plugin seamlessly integrates the powerful Mapbox Maps SDK into your Flutter application, unlocking a world of possibilities for location-based experiences.",
-      "logo": "assets/images/mapbox_map_gl/logo.png",
+      "logo": "assets/assets/images/mapbox_map_gl/logo.png",
       "tech_stacks": [
         "Flutter",
         "Mapbox SDK"
@@ -50,23 +50,23 @@
         }
       ],
       "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
+        "assets/assets/images/mapbox_map_gl/screenshot1.png",
+        "assets/assets/images/mapbox_map_gl/screenshot2.png",
+        "assets/assets/images/mapbox_map_gl/screenshot3.png",
+        "assets/assets/images/mapbox_map_gl/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Pub",
           "link": "https://pub.dev/packages/mapbox_map_gl",
-          "icon": "assets/icons/pub.png"
+          "icon": "assets/assets/icons/pub.png"
         },
         {
           "id": 2,
           "label": "Github",
           "link": "https://github.com/itheamc/mapbox_map_gl",
-          "icon": "assets/icons/github.png"
+          "icon": "assets/assets/icons/github.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -95,7 +95,7 @@
           "id": 1,
           "label": "Github",
           "link": "https://github.com/itheamc/navigation-for-compose-for-desktop",
-          "icon": "assets/icons/github.png"
+          "icon": "assets/assets/icons/github.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -105,7 +105,7 @@
       "category": 2,
       "name": "PDRA",
       "descriptions": "Participatory Disaster Risk Assessment (PDRA) is a digital tool to assess the household level vulnerability based on primary data collected at the household level.\n\nIt works by assessing the household and community level existing hazards, disaster risks, vulnerability, resources, capacities and identifies the plans to mitigate, prevent and manage the disasters impacts at household and communities level.",
-      "logo": "assets/images/pdra/logo.png",
+      "logo": "assets/assets/images/pdra/logo.png",
       "tech_stacks": [
         "Android",
         "Kotlin/Java",
@@ -142,23 +142,23 @@
         }
       ],
       "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
+        "assets/assets/images/mapbox_map_gl/screenshot1.png",
+        "assets/assets/images/mapbox_map_gl/screenshot2.png",
+        "assets/assets/images/mapbox_map_gl/screenshot3.png",
+        "assets/assets/images/mapbox_map_gl/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Website",
           "link": "https://pdra.naxa.com.np/#/home",
-          "icon": "assets/icons/website.png"
+          "icon": "assets/assets/icons/website.png"
         },
         {
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details/PDRA?id=np.com.naxa.pdra",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -168,7 +168,7 @@
       "category": 2,
       "name": "Naxa Assessment",
       "descriptions": "Naxa Assessment Project pilots a groundbreaking mobile app (Android & Web) for\noffline multi-hazard risk assessment, empowering communities vulnerable to floods,\nearthquakes, and landslides with crucial information for preparedness and response.",
-      "logo": "assets/images/naxa_assessment/logo.png",
+      "logo": "assets/assets/images/naxa_assessment/logo.png",
       "tech_stacks": [
         "Android",
         "Kotlin/Java",
@@ -180,23 +180,23 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
+        "assets/assets/images/mapbox_map_gl/screenshot1.png",
+        "assets/assets/images/mapbox_map_gl/screenshot2.png",
+        "assets/assets/images/mapbox_map_gl/screenshot3.png",
+        "assets/assets/images/mapbox_map_gl/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Website",
           "link": "https://assessment.naxa.com.np/",
-          "icon": "assets/icons/website.png"
+          "icon": "assets/assets/icons/website.png"
         },
         {
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=np.com.naxa.assessment",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -206,7 +206,7 @@
       "category": 2,
       "name": "Zite Manager",
       "descriptions": "Zite Manager lets you automate your referrals, manage approvals, design your own\nworkflows, and coordinate tasks between team members. It can create tracking\nnumbers, assign statuses, email you urgent information, export data to excel, and\nhelp you visualize your program workfiows.",
-      "logo": "assets/images/zite/logo.png",
+      "logo": "assets/assets/images/zite/logo.png",
       "tech_stacks": [
         "Flutter",
         "Riverpod",
@@ -217,23 +217,23 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/zite/screenshot1.png",
-        "assets/images/zite/screenshot2.png",
-        "assets/images/zite/screenshot3.png",
-        "assets/images/zite/screenshot4.png"
+        "assets/assets/images/zite/screenshot1.png",
+        "assets/assets/images/zite/screenshot2.png",
+        "assets/assets/images/zite/screenshot3.png",
+        "assets/assets/images/zite/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Website",
           "link": "https://app.zitemanager.org/",
-          "icon": "assets/icons/website.png"
+          "icon": "assets/assets/icons/website.png"
         },
         {
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=np.com.naxa.zitemanagerapp",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -243,7 +243,7 @@
       "category": 2,
       "name": "Safa Nepal",
       "descriptions": "Safa Nepal, previously known as Nepal Waste Map, is an open-data waste management and data collection system implemented by Clean up Nepal.",
-      "logo": "assets/images/safa_nepal/logo.png",
+      "logo": "assets/assets/images/safa_nepal/logo.png",
       "tech_stacks": [
         "Flutter",
         "Mapbox Map SDK",
@@ -252,23 +252,23 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/safa_nepal/screenshot1.png",
-        "assets/images/safa_nepal/screenshot2.png",
-        "assets/images/safa_nepal/screenshot3.png",
-        "assets/images/safa_nepal/screenshot4.png"
+        "assets/assets/images/safa_nepal/screenshot1.png",
+        "assets/assets/images/safa_nepal/screenshot2.png",
+        "assets/assets/images/safa_nepal/screenshot3.png",
+        "assets/assets/images/safa_nepal/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Website",
           "link": "https://safanepal.org/",
-          "icon": "assets/icons/website.png"
+          "icon": "assets/assets/icons/website.png"
         },
         {
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=org.cleanup.nepalwastemap",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -278,7 +278,7 @@
       "category": 2,
       "name": "Shopazard",
       "descriptions": "Shopazard is a mobile based ecommerce app that aims to display the products from the nearest store to the consumer.",
-      "logo": "assets/images/shopazard/logo.png",
+      "logo": "assets/assets/images/shopazard/logo.png",
       "tech_stacks": [
         "Flutter",
         "Google Map SDK",
@@ -288,23 +288,23 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/shopazard/screenshot1.png",
-        "assets/images/shopazard/screenshot2.png",
-        "assets/images/shopazard/screenshot3.png",
-        "assets/images/shopazard/screenshot4.png"
+        "assets/assets/images/shopazard/screenshot1.png",
+        "assets/assets/images/shopazard/screenshot2.png",
+        "assets/assets/images/shopazard/screenshot3.png",
+        "assets/assets/images/shopazard/screenshot4.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Website",
           "link": "https://shopazard.com/",
-          "icon": "assets/icons/website.png"
+          "icon": "assets/assets/icons/website.png"
         },
         {
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=com.shopazard.customer",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
@@ -314,7 +314,7 @@
       "category": 3,
       "name": "Rkado",
       "descriptions": "Connect with millions of others all over the world through: · Chatting · Miniblogging · Playing Games · Sending Virtual Gifts.",
-      "logo": "assets/images/rkado/logo.png",
+      "logo": "assets/assets/images/rkado/logo.png",
       "tech_stacks": [
         "Flutter",
         "Pusher",
@@ -323,20 +323,20 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/rkado/screenshot1.png",
-        "assets/images/rkado/screenshot2.png",
-        "assets/images/rkado/screenshot3.png",
-        "assets/images/rkado/screenshot4.png",
-        "assets/images/rkado/screenshot5.png",
-        "assets/images/rkado/screenshot6.png",
-        "assets/images/rkado/screenshot7.png"
+        "assets/assets/images/rkado/screenshot1.png",
+        "assets/assets/images/rkado/screenshot2.png",
+        "assets/assets/images/rkado/screenshot3.png",
+        "assets/assets/images/rkado/screenshot4.png",
+        "assets/assets/images/rkado/screenshot5.png",
+        "assets/assets/images/rkado/screenshot6.png",
+        "assets/assets/images/rkado/screenshot7.png"
       ],
       "links": [
         {
           "id": 1,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=com.rkado.android",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/assets/icons/play-store.png"
         }
       ],
       "date": "2024-02-25T10:15:00"
