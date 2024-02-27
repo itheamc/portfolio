@@ -49,12 +49,7 @@
           "descriptions": "Download maps for specific regions for continued functionality even without an internet connection."
         }
       ],
-      "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
-      ],
+      "multimedia": [],
       "links": [
         {
           "id": 1,
@@ -69,6 +64,7 @@
           "icon": "assets/icons/github.png"
         }
       ],
+      "type": "Flutter Plugin",
       "date": "2024-02-25T10:15:00"
     },
     {
@@ -84,12 +80,7 @@
       ],
       "features": [
       ],
-      "multimedia": [
-        "mapbox_map_gl/screenshot1.png",
-        "mapbox_map_gl/screenshot2.png",
-        "mapbox_map_gl/screenshot3.png",
-        "mapbox_map_gl/screenshot4.png"
-      ],
+      "multimedia": [],
       "links": [
         {
           "id": 1,
@@ -98,6 +89,7 @@
           "icon": "assets/icons/github.png"
         }
       ],
+      "type": "Codebase",
       "date": "2024-02-25T10:15:00"
     },
     {
@@ -142,10 +134,9 @@
         }
       ],
       "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
+        "assets/images/pdra/screenshot1.png",
+        "assets/images/pdra/screenshot2.png",
+        "assets/images/pdra/screenshot3.png"
       ],
       "links": [
         {
@@ -158,16 +149,17 @@
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details/PDRA?id=np.com.naxa.pdra",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     },
     {
       "id": 4,
       "category": 2,
       "name": "Naxa Assessment",
-      "descriptions": "Naxa Assessment Project pilots a groundbreaking mobile app (Android & Web) for\noffline multi-hazard risk assessment, empowering communities vulnerable to floods,\nearthquakes, and landslides with crucial information for preparedness and response.",
+      "descriptions": "Naxa Assessment Project pilots a groundbreaking mobile app (Android & Web) for offline multi-hazard risk assessment, empowering communities vulnerable to floods, earthquakes, and landslides with crucial information for preparedness and response.",
       "logo": "assets/images/naxa_assessment/logo.png",
       "tech_stacks": [
         "Android",
@@ -180,10 +172,11 @@
       "features": [
       ],
       "multimedia": [
-        "assets/images/mapbox_map_gl/screenshot1.png",
-        "assets/images/mapbox_map_gl/screenshot2.png",
-        "assets/images/mapbox_map_gl/screenshot3.png",
-        "assets/images/mapbox_map_gl/screenshot4.png"
+        "assets/images/naxa_assessment/screenshot1.png",
+        "assets/images/naxa_assessment/screenshot2.png",
+        "assets/images/naxa_assessment/screenshot3.png",
+        "assets/images/naxa_assessment/screenshot4.png",
+        "assets/images/naxa_assessment/screenshot5.png"
       ],
       "links": [
         {
@@ -196,16 +189,17 @@
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=np.com.naxa.assessment",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     },
     {
       "id": 5,
       "category": 2,
       "name": "Zite Manager",
-      "descriptions": "Zite Manager lets you automate your referrals, manage approvals, design your own\nworkflows, and coordinate tasks between team members. It can create tracking\nnumbers, assign statuses, email you urgent information, export data to excel, and\nhelp you visualize your program workfiows.",
+      "descriptions": "Zite Manager lets you automate your referrals, manage approvals, design your own workflows, and coordinate tasks between team members. \nIt can create tracking numbers, assign statuses, email you urgent information, export data to excel, and help you visualize your program workflows.",
       "logo": "assets/images/zite/logo.png",
       "tech_stacks": [
         "Flutter",
@@ -220,7 +214,13 @@
         "assets/images/zite/screenshot1.png",
         "assets/images/zite/screenshot2.png",
         "assets/images/zite/screenshot3.png",
-        "assets/images/zite/screenshot4.png"
+        "assets/images/zite/screenshot4.png",
+        "assets/images/zite/screenshot5.png",
+        "assets/images/zite/screenshot6.png",
+        "assets/images/zite/screenshot7.png",
+        "assets/images/zite/screenshot8.png",
+        "assets/images/zite/screenshot9.png",
+        "assets/images/zite/screenshot10.png"
       ],
       "links": [
         {
@@ -233,9 +233,10 @@
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=np.com.naxa.zitemanagerapp",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     },
     {
@@ -268,9 +269,10 @@
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=org.cleanup.nepalwastemap",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     },
     {
@@ -304,9 +306,10 @@
           "id": 2,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=com.shopazard.customer",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     },
     {
@@ -336,9 +339,10 @@
           "id": 1,
           "label": "Play Store",
           "link": "https://play.google.com/store/apps/details?id=com.rkado.android",
-          "icon": "assets/icons/play-store.png"
+          "icon": "assets/icons/playstore.png"
         }
       ],
+      "type": "Mobile App",
       "date": "2024-02-25T10:15:00"
     }
   ]
